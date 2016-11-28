@@ -14,7 +14,7 @@ Plot:
 
 In each of these patches, four 1 m^2 quadrats were placed using a random number table on a co-ordinate grid system (S1, S2, S3, S4).
 
-All visible angiosperm species were identified to species, all bryophytes were identified as "Moss". 
+Within each quadrat, all visible understory angiosperm species were identified to species, all bryophytes were identified as "Moss". 
 
 All individuals of a species were counted (Abundance_). Moss was not given an abundance value as individuals could not be distinguished.
 
